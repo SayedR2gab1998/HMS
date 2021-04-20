@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782511749273",
+    "project_id": "hmss-f1e47",
+    "storage_bucket": "hmss-f1e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782511749273:android:89ac1d5b1eee1c3f15a008",
+        "android_client_info": {
+          "package_name": "com.example.hms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782511749273-c6vka3tvkcpek65p9td78bffd3ok2dh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxA6wPGMqjS13NumHIj_uohb3dF2lYX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782511749273-c6vka3tvkcpek65p9td78bffd3ok2dh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
